@@ -1,0 +1,19 @@
+{
+    "name": "darciofjunior/microservices-common",
+    "description": "Packages Files Utils Microservices Courses",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darcio Junior",
+            "email": "darciofjunior81@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DarciofJunior\\MicroservicesCommon\\": "src/"
+        }
+    }
+}
